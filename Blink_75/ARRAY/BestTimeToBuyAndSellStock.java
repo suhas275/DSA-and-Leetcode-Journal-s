@@ -22,3 +22,12 @@ public static void main(String args[]) {
   maximumProfit(Arr));
 }
 }
+
+// Output:
+// The maximum profit by selling the stock is 5
+// Time Complexity: O(N)
+// Reason: We are performing a single iteration
+// Space Complexity: O(1)
+// Reason: No extra space is used.
+
+// DETAILED EXPLANATION : https://takeuforward.org/data-structure/stock-buy-and-sell-dp-35/
