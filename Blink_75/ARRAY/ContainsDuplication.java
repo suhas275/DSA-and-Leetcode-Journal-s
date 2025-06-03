@@ -1,38 +1,38 @@
-import java.io.*;
-import java.lang.*;
-
-class Solution {
-
+import java.util.*;
+ 
+class Solution{
+    
     public boolean containsDuplicate(int[] nums) {
-
-        for (int i = 0; i < nums.length; i++) {
-            for (int j = i + 1; j < nums.length; j++) {
-                if (nums[i] == nums[j]) {
-                    return true;
-                }
-            }
+        
+        HashSet<Integer> set = new HashSet<>();
+        
+        for(int i = 0; i<nums.length;i++){
+            set.add(nums[i]);
         }
-
+        
+        // if it contains duplicate then the size of 
+        // set will not equal to the length
+        // of the array
+        if(set.size() < nums.length)
+            return true;
+        
         return false;
     }
-
-    public static void main(String[] args) {
-
-        Solution sol = new Solution();
-
-        int nums[] = { 1, 2, 3, 1 };
-
-        boolean res = sol.containsDuplicate(nums);
-
-        // printing the result
-        System.out.println(res);
-    }
+    
+	public static void main (String[] args) {
+	    
+	    Solution sol= new Solution();
+	    
+	    int nums[]= {1, 2, 3, 1};
+	    
+	    boolean res = sol.containsDuplicate(nums);
+	    
+	    System.out.println(res);
+	}
 }
 
-// Time Complexity: O(N*N), Because we are traversing the whole array again and
-// again for every integer.
-
-// Space Complexity: O(1), Since, we are not using any extra space.
+// Time Complexity: O(N)
+// Space Complexity: O(N)
 
 // DETAILED EXPLANATION :
 // https://takeuforward.org/data-structure/contains-duplicate-check-if-a-value-appears-atleast-twice/
