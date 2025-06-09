@@ -1,5 +1,3 @@
-import java.util.*;
-
 class BestTimeToBuyAndSellStock{
 static int maximumProfit(int []Arr){
     // Write your code here.
