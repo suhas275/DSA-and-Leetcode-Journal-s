@@ -1,5 +1,3 @@
-package Blink_75.Dynamic_Programming;
-
 import java.util.Arrays;
 
 public class CoinChange {
