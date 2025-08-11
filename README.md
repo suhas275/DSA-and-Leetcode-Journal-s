@@ -6,3 +6,8 @@ https://www.geeksforgeeks.org/algorithms-for-interviews/#:~:text=Dynamic%20progr
 
 ## Binary Search Algorithm
 https://zinc-venus-4fd.notion.site/Binary-Search-225f189ac9b480149727fc3ef27f5fd4
+
+# Data Structure Concept's Notes
+
+## Graph
+https://zinc-venus-4fd.notion.site/Graph-24cf189ac9b480a3acfaface1b49a5e4
