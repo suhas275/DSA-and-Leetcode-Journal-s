@@ -1,6 +1,6 @@
 import java.util.*;
  
-class Solution{
+class ContainsDuplication {
     
     public boolean containsDuplicate(int[] nums) {
         
@@ -21,7 +21,7 @@ class Solution{
     
 	public static void main (String[] args) {
 	    
-	    Solution sol= new Solution();
+	    ContainsDuplication sol = new ContainsDuplication();
 	    
 	    int nums[]= {1, 2, 3, 1};
 	    
