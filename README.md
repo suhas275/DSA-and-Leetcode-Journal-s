@@ -9,8 +9,8 @@ https://zinc-venus-4fd.notion.site/Binary-Search-225f189ac9b480149727fc3ef27f5fd
 
 # ✅ Data Structure Concept's Notes
 
-## Graph
+## 📊Graph
 https://zinc-venus-4fd.notion.site/Graph-24cf189ac9b480a3acfaface1b49a5e4
 
-## Interval
+## 📏Interval
 https://zinc-venus-4fd.notion.site/Intervals-25df189ac9b48052a718d5e82de29561
