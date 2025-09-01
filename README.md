@@ -14,3 +14,6 @@ https://zinc-venus-4fd.notion.site/Graph-24cf189ac9b480a3acfaface1b49a5e4
 
 ## 📏Interval
 https://zinc-venus-4fd.notion.site/Intervals-25df189ac9b48052a718d5e82de29561
+
+## 🔗Linked List
+https://zinc-venus-4fd.notion.site/Linked-List-261f189ac9b48049b74fd11e981d2890
