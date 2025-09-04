@@ -1,3 +1,9 @@
+## Algorithm Visualizer ```Interactive platform  with visualizations for many common algorithms```
+https://algorithm-visualizer.org/
+
+## 🚀Visual Debugger ```paste Java code and step through execution```
+https://pythontutor.com/java.html#mode=edit
+
 ## DSA Quick Cheet Sheet
 https://zinc-venus-4fd.notion.site/Quick-Cheet-Sheet-200f189ac9b480f0b27bc9d3ea4bd723
 
@@ -17,3 +23,6 @@ https://zinc-venus-4fd.notion.site/Intervals-25df189ac9b48052a718d5e82de29561
 
 ## 🔗Linked List
 https://zinc-venus-4fd.notion.site/Linked-List-261f189ac9b48049b74fd11e981d2890
+
+## 🔑Matrix
+https://zinc-venus-4fd.notion.site/Matrix-264f189ac9b480a19270e2c13d4030a6?pvs=73
